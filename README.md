@@ -3,7 +3,7 @@ Overview
 
 This is a fully interactive Tic-Tac-Toe game built using JavaScript, HTML, and CSS. The game allows two players to play in real-time on a single browser interface with a visually appealing and responsive design. The project demonstrates proficiency in DOM manipulation, event handling, game logic implementation, and UI design.
 
-Live Demo:
+Live Demo:  https://ammara-hussain.github.io/Tic-Tac-Toe/
 
 Live Preview: 
 
